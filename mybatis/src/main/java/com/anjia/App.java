@@ -2,7 +2,7 @@ package com.anjia;
 
 /**
  * Hello world!
- *
+ * @author Jing.Z
  */
 public class App 
 {

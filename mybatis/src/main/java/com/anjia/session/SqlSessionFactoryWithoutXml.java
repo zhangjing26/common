@@ -14,7 +14,7 @@ import javax.sql.DataSource;
  * @author Jing.Zhang
  * @date 2019/1/13
  */
-public class SqlSessionFactoryWithoutXML {
+public class SqlSessionFactoryWithoutXml {
 //
 //    public SqlSessionFactory buildSessionFactory() {
 //        DataSource dataSource = BlogDataSourceFactory.getBlogDataSource();

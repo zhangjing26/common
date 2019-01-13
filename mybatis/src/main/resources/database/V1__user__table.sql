@@ -13,3 +13,4 @@ CREATE TABLE `user_info` (
   UNIQUE KEY `uniq_name` (`user_name`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='用户信息';
 
+# insert into user_info (user_name, description, user_password) values ('大豆', 'IT工程师', '123456');
